@@ -1,4 +1,4 @@
-![](Daniel_avatar2.jpg)
+![](Daniel_avatar.png)
 I am a Data Scientist and programmer with an interest in Data Visualization and Machine Learning. I was first introduced into programming in high school where I learned basic C++. Later in university I became familiar with basic JavaScript and Matlab. Primarily my background is in mathematical and statistical analysis, obtaining my BSc in Mathematics from West Virginia University. While in University I was able to help as a research assistant in a flowcytometry lab where I first experienced big data analytics using Microsoft Excel.
 
 After University I spent over 6 years teaching primary and secondary education in the United States and abroad. During that period I self learned basic R and Python programming skills. I improved upon my skills by taking various courses online related to Data Science through Coursera and DataCamp.
