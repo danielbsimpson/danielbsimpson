@@ -1,4 +1,4 @@
-<img align="right" width="650" height="500" src="Daniel_Avatar.png">
+<img align="right" width="550" height="400" src="Daniel_Avatar.png">
 
 I am a Data Scientist who loves programming and has a strong interest in data visualization and machine learning. I speciliaze in Python, R and SQL primarily. I've enjoyed working with various data science related libraries available in Python (Scikit-Learn, Keras, TensorFlow, Pandas, Matplotlib, Plotly, Seaborn, GeoPandas, SciPy and NumPy).
 
