@@ -12,4 +12,5 @@ I love to travel all over the world. I've visited Canada, Thailand, India, Pales
 Besides programming and traveling I have always enjoyed investing, video games, weightlifting, exercise, sports, muay thai, boxing, mixed martial arts, science fiction, fantasy, cooking, and reading. If you share any of these interests or ever need help working with data, please feel free to contact me!
 
 📫 How to reach me: simpson.danielb@gmail.com
+
 😄 Pronouns: Him/He
