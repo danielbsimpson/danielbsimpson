@@ -1,5 +1,6 @@
-My name is Daniel Simpson
+![](Daniel_Avatar.png)
 
+My name is Daniel Simpson
 
 I am a Data Scientist and programmer with an interest in Data Visualization and Machine Learning. I was first introduced into programming in high school where I learned basic C++. Later in university I became familiar with basic JavaScript and Matlab. Primarily my background is in mathematical and statistical analysis, obtaining my BSc in Mathematics from West Virginia University. While in University I was able to help as a research assistant in a flowcytometry lab where I first experienced big data analytics using Microsoft Excel.
 
@@ -10,6 +11,8 @@ Eventually I decided to pursue my MSc in Data Science and started attending Birk
 I love to travel all over the world. I've visited Canada, Thailand, India, Palestine, Israel, France, Italy, Vietnam, Singapore, Indonesia, Turkey, Costa Rica, and England. Coming from the mountain state of West Virginia where I was raised, I've lived in Virginia, and later moved to Thailand to teach mathematics and science to bilingual students. I now live in London, England with my wonderful wife where we are both furthering our educational journey.
 
 Besides programming and traveling I have always enjoyed investing, video games, weightlifting, exercise, sports, muay thai, boxing, mixed martial arts, science fiction, fantasy, cooking, and reading. If you share any of these interests or ever need help working with data, please feel free to contact me!
+
+Check out my portfolio website: https://danielbsimpson.github.io/
 
 📫 How to reach me: simpson.danielb@gmail.com
 
