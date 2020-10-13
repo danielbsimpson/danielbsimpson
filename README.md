@@ -1,6 +1,6 @@
 ![](Daniel_Avatar.png)
 
-I am a Data Scientist and programmer with an interest in data visualization and machine learning. I speciliaze in Python, SQL and R primarily. I've enjoyed working with various data science related libraries available in Python (Scikit-Learn, Keras, TensorFlow, Pandas, Matplotlib, Plotly, Seaborn, GeoPandas, SciPy and NumPy).
+I am a Data Scientist who loves programming and has a strong interest in data visualization and machine learning. I speciliaze in Python, SQL and R primarily. I've enjoyed working with various data science related libraries available in Python (Scikit-Learn, Keras, TensorFlow, Pandas, Matplotlib, Plotly, Seaborn, GeoPandas, SciPy and NumPy).
 
 I was first introduced into programming in high school where I learned basic C++. Later in university I became familiar with basic JavaScript and Matlab. Primarily my background is in mathematical and statistical analysis, obtaining my BSc in Mathematics from West Virginia University. While in University I was able to help as a research assistant in a flow cytometry lab where I first experienced big data analytics using Microsoft Excel.
 
