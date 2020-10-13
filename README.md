@@ -14,6 +14,8 @@ I'm open to work on various data and programming related projects so please feel
 
 Check out my portfolio website: https://danielbsimpson.github.io/
 
+Check out some of my Kaggle notebooks as well: https://www.kaggle.com/dbsimpson/notebooks
+
 📫 How to reach me: simpson.danielb@gmail.com
 
-😄 Pronouns: Him/He
+😄 Pronouns: He/Him/His
