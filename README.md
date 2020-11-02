@@ -13,7 +13,6 @@ I am a **Data Scientist** who loves programming and has a strong interest in dat
 ## My favorite Python Libraries
 <pre>
 ◾   Scikit-Learn   ◾ Keras   ◾ TensorFlow  ◾ Pandas  ◾ Matplotlib
-<br>
 ◾   Plotly  ◾   Dash  ◾   Seaborn ◾   GeoPandas  ◾  SciPy  ◾  NumPy
 </pre>
 # About me
@@ -29,11 +28,11 @@ Besides programming and traveling I have always enjoyed investing, video games, 
 
 I'm open to work on various data and programming related projects so please feel free to contact me!
 
-Check out my portfolio website: https://danielbsimpson.github.io/
+💻 Check out my portfolio website: https://danielbsimpson.github.io/
 
-Check out some of my Kaggle notebooks: https://www.kaggle.com/dbsimpson/notebooks
+📊 Check out some of my Kaggle notebooks: https://www.kaggle.com/dbsimpson/notebooks
 
-Visit my LinkedIn page and connect with me: https://www.linkedin.com/in/daniel-b-simpson/
+:bowtie: Visit my LinkedIn page and connect with me: https://www.linkedin.com/in/daniel-b-simpson/
 
 📫 How to reach me: simpson.danielb@gmail.com
 
