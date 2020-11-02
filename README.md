@@ -29,8 +29,9 @@ Besides programming and traveling I have always enjoyed investing, video games, 
 I'm open to work on various data and programming related projects so please feel free to contact me!
 
 ## Current Work
-- I am helping my mentor and old boss develop a dashboard for tracking the spread of Covid-19 in the state of Penssylvania. I have used dash to design the website, plotly for interactive visuals and deployed it using Heroku cloud service. The website can be found here: https://penn-covid-19.herokuapp.com/
+- I am helping my mentor and old boss develop a dashboard for tracking the spread of Covid-19 in the state of Pennsylvania. I have used dash to design the website, plotly for interactive visuals and deployed it using Heroku cloud service. The website can be found here: https://penn-covid-19.herokuapp.com/
 
+- Working on a NLP project utilizing the Twitter API. More to come on this!
 
 ## Contact me or check out some of my work
 
