@@ -1,13 +1,16 @@
 <img align="right" width="550" height="400" src="Daniel_Avatar.png">
 
-# About me
+# Who I am
 I am a **Data Scientist** who loves programming and has a strong interest in data visualization and machine learning.
-## I speciliaze in:
+## Education
+🎓 MSc in Data Science from Birkbeck, University of London
+🎓 BSc in Mathematics from West Virginia University
+## I speciliaze in
 - Python
 - R
 - SQL
 
-## My favorite Python Libraries:
+## My favorite Python Libraries
 - Scikit-Learn
 - Keras
 - TensorFlow
@@ -20,7 +23,8 @@ I am a **Data Scientist** who loves programming and has a strong interest in dat
 - SciPy
 - NumPy
 
-I was first introduced into programming in high school where I learned basic C++. Later in university I became familiar with basic JavaScript and Matlab. Primarily my background is in mathematical and statistical analysis, obtaining my BSc in Mathematics from West Virginia University. While in University I was able to help as a research assistant in a flow cytometry lab where I first experienced big data analytics using Microsoft Excel.
+# About me
+I was first introduced into programming during secondary education where I learned basic C++. Later in university I became familiar with basic JavaScript and Matlab. Primarily my background is in mathematical and statistical analysis, obtaining my BSc in Mathematics from West Virginia University. While in University I was able to help as a research assistant in a flow cytometry lab where I first experienced big data analytics using Microsoft Excel.
 
 After University I spent over 5 years teaching primary and secondary education in the United States and in Thailand. During that period I self learned basic R and Python programming skills. I improved upon my skills by taking various courses online related to Data Science through Coursera and DataCamp.
 
