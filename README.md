@@ -11,8 +11,8 @@ I am a **Data Scientist** who loves programming and has a strong interest in dat
 - SQL
 
 ## My favorite Python Libraries
-◾ Scikit-Learn  ◾ Keras ◾ TensorFlow  ◾ Pandas  ◾ Matplotlib
-◾ Plotly  ◾ Dash  ◾ Seaborn ◾ GeoPandas  ◾SciPy  ◾NumPy
+◾   Scikit-Learn    ◾ Keras   ◾ TensorFlow    ◾ Pandas    ◾ Matplotlib <br>
+◾   Plotly  ◾   Dash  ◾   Seaborn ◾   GeoPandas  ◾  SciPy  ◾  NumPy
 
 # About me
 I was first introduced into programming during secondary education where I learned basic C++. Later in university I became familiar with basic JavaScript and Matlab. Primarily my background is in mathematical and statistical analysis, obtaining my BSc in Mathematics from West Virginia University. While in University I was able to help as a research assistant in a flow cytometry lab where I first experienced big data analytics using Microsoft Excel.
