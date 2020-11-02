@@ -4,6 +4,7 @@
 I am a **Data Scientist** who loves programming and has a strong interest in data visualization and machine learning.
 ## Education
 🎓 MSc in Data Science from Birkbeck, University of London
+
 🎓 BSc in Mathematics from West Virginia University
 ## I speciliaze in
 - Python
