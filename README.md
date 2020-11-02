@@ -45,5 +45,3 @@ I'm open to work on various data and programming related projects so please feel
 :bowtie: Visit my LinkedIn page and connect with me: https://www.linkedin.com/in/daniel-b-simpson/
 
 📫 How to reach me: simpson.danielb@gmail.com
-
-😄 Pronouns: He/Him/His
