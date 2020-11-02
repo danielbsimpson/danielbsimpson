@@ -7,7 +7,7 @@ I am a **Data Scientist** who loves programming and has a strong interest in dat
 
 🎓 BSc in Mathematics from West Virginia University
 
-## I speciliaze in
+## I specialize in
 - Python
 - R
 - SQL
