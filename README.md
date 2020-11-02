@@ -11,7 +11,8 @@ I am a **Data Scientist** who loves programming and has a strong interest in dat
 - SQL
 
 ## My favorite Python Libraries
-◾   Scikit-Learn    ◾ Keras   ◾ TensorFlow    ◾ Pandas    ◾ Matplotlib <br>
+|◾   Scikit-Learn|◾ Keras|◾ TensorFlow|◾ Pandas|◾ Matplotlib|
+<br>
 ◾   Plotly  ◾   Dash  ◾   Seaborn ◾   GeoPandas  ◾  SciPy  ◾  NumPy
 
 # About me
