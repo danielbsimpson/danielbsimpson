@@ -28,9 +28,15 @@ Besides programming and traveling I have always enjoyed investing, video games, 
 
 I'm open to work on various data and programming related projects so please feel free to contact me!
 
-💻 Check out my portfolio website: https://danielbsimpson.github.io/
+## Current Work
+- I am helping my mentor and old boss develop a dashboard for tracking the spread of Covid-19 in the state of Penssylvania. I have used dash to design the website, plotly for interactive visuals and deployed it using Heroku cloud service. The website can be found here: https://penn-covid-19.herokuapp.com/
 
-📊 Check out some of my Kaggle notebooks: https://www.kaggle.com/dbsimpson/notebooks
+
+## Contact me or check out some of my work
+
+💻 My portfolio website: https://danielbsimpson.github.io/
+
+📊 My Kaggle notebooks: https://www.kaggle.com/dbsimpson/notebooks
 
 :bowtie: Visit my LinkedIn page and connect with me: https://www.linkedin.com/in/daniel-b-simpson/
 
