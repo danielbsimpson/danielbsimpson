@@ -3,10 +3,12 @@
 # Who I am
 I am a **Data Scientist** who loves programming and has a strong interest in data visualization and machine learning.
 ## Education
-🎓 MSc in Data Science \n
+🎓 MSc in Data Science
+
 Birkbeck, University of London
 
-🎓 BSc in Mathematics \n
+🎓 BSc in Mathematics
+
 West Virginia University
 
 ## I specialize in
