@@ -1,4 +1,4 @@
-<img align="right" width=100 height=100 src="Daniel_Illustration-6.png">
+<img align="right" width=300 height=300 src="Daniel_Illustration-6.png">
 
 # Who I am
 I am a **Data Scientist** who loves programming and has a strong interest in data visualization and machine learning.
