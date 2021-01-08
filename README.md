@@ -3,9 +3,11 @@
 # Who I am
 I am a **Data Scientist** who loves programming and has a strong interest in data visualization and machine learning.
 ## Education
-🎓 MSc in Data Science from Birkbeck, University of London
+🎓 MSc in Data Science \n
+Birkbeck, University of London
 
-🎓 BSc in Mathematics from West Virginia University
+🎓 BSc in Mathematics \n
+West Virginia University
 
 ## I specialize in
 - Python
@@ -14,11 +16,11 @@ I am a **Data Scientist** who loves programming and has a strong interest in dat
 
 ## My favorite Python Libraries
 <pre>
-◾ Scikit-Learn  ◾ Keras      
-◾ TensorFlow    ◾ Pandas        
-◾ Matplotlib    ◾ Plotly          
-◾ Dash          ◾ Seaborn    
-◾ GeoPandas     ◾ SciPy         
+◾ Scikit-Learn  ◾ Keras
+◾ TensorFlow    ◾ Pandas
+◾ Matplotlib    ◾ Plotly
+◾ Dash          ◾ Seaborn
+◾ GeoPandas     ◾ SciPy
 ◾ NumPy         ◾ OpenCV
 </pre>
 # About me
