@@ -7,6 +7,7 @@ I am a **Data Scientist** who loves programming and has a strong interest in dat
 
 Birkbeck, University of London
 
+
 🎓 BSc in Mathematics
 
 West Virginia University
