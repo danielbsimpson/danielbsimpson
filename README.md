@@ -40,7 +40,7 @@ Besides programming and traveling I have always enjoyed investing, video games, 
 I'm open to work on various data and programming related projects so please feel free to contact me!
 
 ## Current Work
-- I am helping my mentor and old boss develop a dashboard for tracking the spread of Covid-19 in the state of Pennsylvania. I have used dash to design the website, plotly for interactive visuals and deployed it using Heroku cloud service. The website can be found here: https://penn-covid-19.herokuapp.com/
+- [Facial recognition and mask detection](https://github.com/danielbsimpson/Facial-recognition-and-Mask-Identification)
 
 - [K-means clustering on demographic data in London boroughs](https://github.com/danielbsimpson/IBM-Data-Science-Capstone)
 
