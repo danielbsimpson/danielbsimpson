@@ -39,7 +39,7 @@ Besides programming and traveling I have always enjoyed investing, video games, 
 
 I'm open to work on various data and programming related projects so please feel free to contact me!
 
-## Current Work
+## Recent Projects
 - [Facial recognition and mask detection](https://github.com/danielbsimpson/Facial-recognition-and-Mask-Identification)
 
 - [K-means clustering on demographic data in London boroughs](https://github.com/danielbsimpson/IBM-Data-Science-Capstone)
