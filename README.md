@@ -46,7 +46,7 @@ I'm open to work on various data and programming related projects so please feel
 
 - [Covid-19 tracking app](https://github.com/danielbsimpson/Covid-19-tracking-USA)
 
-- Working on a NLP project utilizing the Twitter API. More to come on this!
+- [Machine Learning for Anomaly Detection](https://github.com/danielbsimpson/Anomaly-Detection)
 
 ## Contact me or check out some of my work
 
