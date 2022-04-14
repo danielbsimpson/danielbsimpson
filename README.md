@@ -16,9 +16,6 @@ West Virginia University
 - Python
 - R  
 - SQL
-- HTML
-- CSS   
-- JavaScript
 ## My favorite Python Libraries
 <pre>
 ◾ Scikit-Learn  ◾ Keras
