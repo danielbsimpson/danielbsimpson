@@ -1,6 +1,6 @@
-<img align="right" width=600 height=750 src="Daniel_Illustration-6.png">
+<img align="right" width=610 height=755 src="Daniel_Illustration-6.png">
 
-# About me
+# Who I am
 I am a **Data Scientist** who loves programming and has a strong interest in data visualization and machine learning.
 ## Education
 🎓 MSc in Data Science
