@@ -39,10 +39,12 @@ Besides programming and traveling I have always enjoyed investing, video games, 
 
 I'm open to work on various data and programming related projects so please feel free to contact me!
 
-## Recent Projects
+## Project Spotlight:
 - [Facial recognition and mask detection](https://github.com/danielbsimpson/Facial-recognition-and-Mask-Identification)
 
 - [K-means clustering on demographic data in London boroughs](https://github.com/danielbsimpson/IBM-Data-Science-Capstone)
+
+- [Regression analysis on life expectancy](https://github.com/danielbsimpson/regression_world_data)
 
 - [Covid-19 tracking app](https://github.com/danielbsimpson/Covid-19-tracking-USA)
 
