@@ -13,10 +13,12 @@ Birkbeck, University of London
 West Virginia University
 
 ## Languages
-- Python  - HTML
-- R       - CSS
-- SQL     - JavaScript
-
+- Python
+- R  
+- SQL
+- HTML
+- CSS   
+- JavaScript
 ## My favorite Python Libraries
 <pre>
 ◾ Scikit-Learn  ◾ Keras
