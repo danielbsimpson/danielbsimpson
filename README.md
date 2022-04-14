@@ -12,10 +12,10 @@ Birkbeck, University of London
 
 West Virginia University
 
-## I specialize in
-- Python
-- R
-- SQL
+## Languages
+- Python  - HTML
+- R       - CSS
+- SQL     - JavaScript
 
 ## My favorite Python Libraries
 <pre>
