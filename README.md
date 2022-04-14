@@ -1,6 +1,6 @@
 <img align="right" width=600 height=750 src="Daniel_Illustration-6.png">
 
-# Who I am
+# About me
 I am a **Data Scientist** who loves programming and has a strong interest in data visualization and machine learning.
 ## Education
 🎓 MSc in Data Science
@@ -18,7 +18,7 @@ West Virginia University
 ◾ SQL     ◾ HTML
 ◾ CSS     ◾ JavaScript
 </pre>
-## My favorite Python Libraries
+## My favorite Python libraries
 <pre>
 ◾ Scikit-Learn  ◾ Keras
 ◾ TensorFlow    ◾ Pandas
