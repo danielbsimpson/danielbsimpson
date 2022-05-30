@@ -43,7 +43,7 @@ I'm open to work on various data and programming related projects so please feel
 ## Project Spotlight:
 - [Facial recognition and mask detection](https://github.com/danielbsimpson/Facial-recognition-and-Mask-Identification)
 
-- [K-means clustering on demographic data in London boroughs](https://github.com/danielbsimpson/IBM-Data-Science-Capstone)
+- [UK Used Car Dashboard](https://used-cars-england.herokuapp.com/)
 
 - [Regression analysis on life expectancy](https://github.com/danielbsimpson/regression_world_data)
 
